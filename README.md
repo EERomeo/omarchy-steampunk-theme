@@ -1,2 +1,15 @@
 # omarchy-steampunk-theme
-Omarchy steampunk theme
+Steampunk theme with backgrounds from wallhaven.cc for Omarchy
+
+# Previews
+<img width="1980" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5b3c56e-7215-40af-91d6-1a6a059fbca9" />
+<img width="1981" height="1081" alt="image" src="https://github.com/user-attachments/assets/da54f07b-1340-4105-8766-a3cb7d7f3167" />
+
+
+
+# Installation
+You can install this theme by running in the terminal:
+
+```omarchy-theme-install https://github.com/EERomeo/omarchy-steampunk-theme```
+
+or select Install > Style > Theme via the Omarchy Menu and provide the link ```https://github.com/EERomeo/omarchy-steampunk-theme```
